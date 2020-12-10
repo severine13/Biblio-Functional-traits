@@ -1,6 +1,10 @@
-# Functional trait-based approaches as a common framework for freshwater and marine ecologists
+# Functional trait-based approaches as a common framework for aquatic ecologists
+Martini et al., L&O 2020, doi: 10.1002/lno.11655
+https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.1002/lno.11655
+
 # Mental map code and methodology are available here:
 https://github.com/EmileFaure/AquaticFunctionalTraitsMap
+
 
 
 # Bibliography- Functional trait-based approaches as a common framework for freshwater and marine ecologists
